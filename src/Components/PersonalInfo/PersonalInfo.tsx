@@ -9,6 +9,10 @@ const links:Ilink[] = [
     {
         link : "https://instagram.com/chris.officia.lpx?igshid=13mbmrw9ok8j",
         name : "Instagram"
+    },
+    {
+        link: "https://faceboo.com",
+        name: "Facebook"
     }
 ]
 const PersonalInfo = () => {
