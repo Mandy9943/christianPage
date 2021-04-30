@@ -3,7 +3,7 @@ import styled from "styled-components";
 const Encabezado:FunctionComponent = () => {
     return (
         <EncabezadoS>
-            <h1>Christian Faravel Acosta</h1>
+            <h1>Christian Faravel</h1>
         </EncabezadoS>
     )
 }
