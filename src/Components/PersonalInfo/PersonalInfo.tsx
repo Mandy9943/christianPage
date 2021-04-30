@@ -11,7 +11,7 @@ const links:Ilink[] = [
         name : "Instagram"
     },
     {
-        link: "https://faceboo.com",
+        link: "https://www.facebook.com/christian.faravel.52",
         name: "Facebook"
     }
 ]
